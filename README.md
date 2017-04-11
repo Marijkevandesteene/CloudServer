@@ -43,6 +43,7 @@ shift + File > Import experimental HTTP extensionLoad the extension.json by hold
 Scratch projects for PingPong
 =============================
 On server with speler1: PingPong_Server.sb2
+
 On client with speler2: PingPong_Client.sb2
 
 These are sample projects in which you can use these cloud variables to implement a pingPong game.
